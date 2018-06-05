@@ -1,6 +1,7 @@
 {
     "class": "embeddings",
     "url": "https://drive.google.com/open?id=1KCQvn2zM1iO8tkGTTFzomvtsWC8TwLsg",
+    "description": "skipgram model from Li et al NAACL 2018 paper. trained on tex8",
     "batchsize": 1000,
     "context_representation": "word",
     "context_type": "linear",
