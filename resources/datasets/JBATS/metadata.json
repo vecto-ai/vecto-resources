@@ -1,0 +1,19 @@
+{
+    "class": "dataset",
+        "task": "analogy",
+        "language": ["japanese"],
+        "name": "jBATS",
+        "description": "Japanese Bigger Analogy Test Set",
+        "domain": "general",
+        "date": "2018",
+        "source": "original, analagous to Bigger Analogy Test for English",
+        "project_page": "http://vecto.space/projects/jBATS",
+        "version": "1.0",
+        "size": "97712 analogy questions (1,997 word pairs)",
+        "cite": "
+                   @inproceedings{KarpinskaLiEtAl_2018,
+                   title = {Subcharacter Information in {{Japanese}} embeddings: when is it worth it?},
+                   booktitle = {Relevance of Linguistic Structure in Neural NLP ({{ACL}} 2018 Workshop, to Appear)},
+                   author = {Karpinska, Marzena and Li, Bofang and Rogers, Anna and Drozd, Aleksandr},
+                   year = {2018}}"
+}
