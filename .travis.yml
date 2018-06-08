@@ -1,0 +1,32 @@
+language: python
+
+sudo: false
+
+dist: bionic
+
+python:
+- '3.6'
+
+os:
+- linux
+
+install:
+  - pip install -U pylint
+
+before_script: # configure a headless display to test plot generation
+- "export DISPLAY=:99.0"
+- sleep 1 # give xvfb some time to start
+
+script:
+- python -m unittest discover
+
+
+notifications:
+  webhooks:
+    urls:
+      - https://webhooks.gitter.im/e/a75d423f7dff38862a1a
+    on_success: always  # options: [always|never|change] default: always
+    on_failure: always  # options: [always|never|change] default: always
+    on_start: never     # options: [always|never|change] default: always
+
+  email: false
