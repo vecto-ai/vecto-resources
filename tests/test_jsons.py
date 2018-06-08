@@ -25,4 +25,4 @@ class Tests(unittest.TestCase):
     def test_jsons(self):
         for f in get_entries():
             data = load_json(f)
-        unittest.assertIsInstance(data, dict, msg=None)
+        self.assertIsInstance(data, dict, msg=None)
