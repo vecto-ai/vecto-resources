@@ -10,5 +10,19 @@
         "project_page": "http://vecto.space/projects/jBATS",
         "version": "1.0",
         "size": "97712 analogy questions (1,997 word pairs)",
-        "cite": "@inproceedings{KarpinskaLiEtAl_2018,\n   title = {Subcharacter Information in {{Japanese}} embeddings: when is it worth it?}, \nbooktitle = {Relevance of Linguistic Structure in Neural NLP ({{ACL}} 2018 Workshop, to Appear)},\n author = {Karpinska, Marzena and Li, Bofang and Rogers, Anna and Drozd, Aleksandr},\n year = {2018}}"
+        "cite":
+        {
+             "title": "Subcharacter Information in Japanese embeddings: when is it worth it?",
+             "author":[
+                {"name":"Marzena Karpinska"},
+                {"name":"Bofang Li"},
+                {"name":"Anna Rogers"},
+                {"name":"Aleksandr Drozd"}
+             ],
+             "year": 2018,
+             "type": "inproceedings",
+             "booktitle":"Proceedings of the Relevance of Linguistic Structure in Neural NLP, ACL 2018 Workshop",
+             "id":"KarpinskaLiEtAl_2018"
+        }
+         
 }
