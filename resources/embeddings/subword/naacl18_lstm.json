@@ -1,5 +1,5 @@
 {
     "class": "embeddings",
     "url": "https://drive.google.com/open?id=1dH8Pe1dMSr8TXg-d_MCw4iE3g0lm3xqe",
-    "description": "subword model with LSTM composition function from Li et al NAACL 2018 paper. trained on text8"
+    "description": "subword model with LSTM composition function from Li et al. trained on text8"
 }

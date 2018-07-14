@@ -1,6 +1,6 @@
 {
     "class": "embeddings",
     "url": "https://drive.google.com/open?id=1PnndcDhyEtVhec-E0ULSOl2lQAHRSYJs",
-    "description": "fasttext model from Li et al NAACL 2018 paper. trained on text8"
+    "description": "fasttext model from Li et al. trained on text8"
 
 }

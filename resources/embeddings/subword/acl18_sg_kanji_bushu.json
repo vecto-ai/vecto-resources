@@ -1,0 +1,5 @@
+{
+    "class": "embeddings",
+    "url": "https://drive.google.com/open?id=1vUmCXA9YFXIfUd6qLSuyplq0sSgGhFv8",
+    "description": "Japanese subword-level word embeddings (SG+kanji+bushu) from Karpinska et al. trained on Mainichi+Wiki"
+}

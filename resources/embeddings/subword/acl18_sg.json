@@ -1,0 +1,5 @@
+{
+    "class": "embeddings",
+    "url": "https://drive.google.com/open?id=15d3wSBo2q8MHEnU7Q5oxXoUfeOGuz4f4",
+    "description": "Japanese word embeddings from Karpinska et al. trained on Mainichi+Wiki"
+}

@@ -1,5 +1,5 @@
 {
     "class": "embeddings",
     "url": "https://drive.google.com/open?id=1iRz6jaP2FxaFHF0NnSZEeBZsKAfOT454",
-    "description": "subword model with CNN composition function from Li et al NAACL 2018 paper. trained on text8"
+    "description": "subword model with CNN composition function from Li et al. trained on text8"
 }
