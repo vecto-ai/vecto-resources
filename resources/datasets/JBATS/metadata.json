@@ -11,22 +11,24 @@
         "version": "1.0",
         "size": "97712 analogy questions (1,997 word pairs)",
         "cite":
-        {
-             "title": "Subcharacter Information in Japanese embeddings: when is it worth it?",
-             "author":[
-                {"name":"Marzena Karpinska"},
-                {"name":"Bofang Li"},
-                {"name":"Anna Rogers"},
-                {"name":"Aleksandr Drozd"}
-             ],
-             "year": 2018,
-             "type": "inproceedings",
-             "booktitle":"Proceedings of the Workshop on the Relevance of Linguistic Structure in Neural Architectures for NLP",
-             "url": "http://aclweb.org/anthology/W18-2905",
-             "pages": "28-37",
-             "address": "Melbourne, Australia",
-             "publisher": "Association for Computational Linguistics", 
-             "id":"KarpinskaLiEtAl_2018"
-        }
+		[{"contribution": "the original dataset",
+		"bibtex":        {
+				  "title": "Subcharacter Information in Japanese embeddings: when is it worth it?",
+				  "author":[
+					{"name":"Marzena Karpinska"},
+					{"name":"Bofang Li"},
+					{"name":"Anna Rogers"},
+					{"name":"Aleksandr Drozd"}
+				  	   ],
+				   "year": 2018,
+				   "type": "inproceedings",
+				   "booktitle":"Proceedings of the Workshop on the Relevance of Linguistic Structure in Neural Architectures for NLP",
+				   "url": "http://aclweb.org/anthology/W18-2905",
+				   "pages": "28-37",
+				   "address": "Melbourne, Australia",
+				   "publisher": "Association for Computational Linguistics", 
+				   "id":"KarpinskaLiEtAl_2018"
+				}
+		}]
          
 }
