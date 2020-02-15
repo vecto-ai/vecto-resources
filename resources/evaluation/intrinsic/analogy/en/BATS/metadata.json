@@ -10,7 +10,7 @@
         "project_page": "http://vecto.space/projects/BATS",
         "version": "3.0",
         "size": "98,200 analogy questions (2,000 word pairs)",
-        "url": "https://github.com/vecto-ai/benchmarks/releases/download/1/BATS_3.0.zip",
+        "url": "https://vecto-data.s3-us-west-1.amazonaws.com/BATS_3.0.zip",
         "cite":[
           {
             "contribution": "the original dataset",
