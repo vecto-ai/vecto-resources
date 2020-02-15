@@ -10,7 +10,7 @@
         "project_page": "http://vecto.space/projects/jSIM",
         "version": "2.0",
         "size": "1997-4429 word pairs",
-	"url": "https://c197.pcloud.com/dHZGuKLDFZvSn3PFZZZB2vGN7Z2ZZgRpZkZBFz27ZyXL4S76vS5zu0BvCTiQTyLUhpazy/jSIM.zip",
+	    "url": "https://vecto-data.s3-us-west-1.amazonaws.com/jSIM.zip",
         "cite": [{
 		"contribution": "the original dataset",
 		"bibtex":        {
